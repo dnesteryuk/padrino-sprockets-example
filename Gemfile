@@ -21,6 +21,12 @@ gem 'slim'
 # Padrino Stable Gem
 gem 'padrino', '0.12.5'
 
+gem 'sass'
+gem 'coffee-script'
+
+gem 'ejs'
+gem 'sprockets'
+
 # Or Padrino Edge
 # gem 'padrino', :github => 'padrino/padrino-framework'
 
