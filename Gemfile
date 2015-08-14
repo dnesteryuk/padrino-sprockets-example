@@ -26,6 +26,7 @@ gem 'coffee-script'
 
 gem 'ejs'
 gem 'sprockets'
+gem 'therubyracer'
 
 # Or Padrino Edge
 # gem 'padrino', :github => 'padrino/padrino-framework'
